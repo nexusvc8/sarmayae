@@ -1,0 +1,6 @@
+{
+  "name": "Sarmaya Invest",
+  "description": "Online Earning & Investment Plans Platform with bilingual English & Urdu support, instant deposit & withdrawal, portfolio manager, profit calculator, referral system and daily rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
